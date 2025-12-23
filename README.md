@@ -93,32 +93,7 @@ Admin: Can manage employees & payroll
 
 Employee: Can view salary, apply for leave, mark attendance
 
-📸 Screenshots (Optional but Recommended)
 
-Add screenshots of:
-
-Home screen
-
-Admin panel
-
-Employee dashboard
-(This increases recruiter trust by 2x)
-
-📌 Resume Highlights (You Can Copy This)
-
-Developed a full-stack Employee Payroll Management System using Python, Streamlit, and MySQL with role-based authentication, salary computation, attendance tracking, and leave management.
-
-🧩 Future Enhancements
-
-Password hashing
-
-Export salary reports to PDF
-
-Cloud database integration
-
-Email notifications
-
-Role-based permissions upgrade
 
 🤝 Author
 
