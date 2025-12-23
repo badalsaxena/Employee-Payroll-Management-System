@@ -67,7 +67,7 @@ SQL	Data management
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Employee-Payroll-Management-System.git
+git clone https://github.com/badalsaxena/Employee-Payroll-Management-System.git
 cd Employee-Payroll-Management-System
 
 2️⃣ Install Dependencies
